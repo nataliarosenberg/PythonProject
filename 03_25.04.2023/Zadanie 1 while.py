@@ -11,3 +11,10 @@ while fahr <= 200:
     print(celc)
     fahr += 20
 
+print("-----------------------------------------------------------")
+
+print("Use loop for")
+f=0
+for f in range(0, 201,20):
+    c=(5/9)*(f-32)
+    print(f, "F--> ", round(c,2),"C")
