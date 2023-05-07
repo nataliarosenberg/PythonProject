@@ -1,5 +1,5 @@
 
-tekst= "Beautiful is better than ugly.Explicit is better than implicit.\
+txt = "Beautiful is better than ugly.Explicit is better than implicit.\
         Simple is better than complex.\
         Complex is better than complicated.\
         Flat is better than nested.\
@@ -15,18 +15,18 @@ tekst= "Beautiful is better than ugly.Explicit is better than implicit.\
         If the implementation is easy to explain, it may be a good idea. \
         Namespaces are one honking great idea -- let's do more of those!"
 
-print(tekst)
+print(txt)
 # Policz liczbę wystąpień słowa better.
-print( "Słowo better występuje: ", tekst.count("better"), "razy")
+print( "Słowo better występuje: ", txt.count("better"), "razy")
 
 # Usuń z tekstu symbol gwiazdki
-print(tekst.replace( "*", ""))
+print(txt.replace( "*", ""))
 
 # Zamień jedno wystąpienie explain na understand
-print(tekst.replace("explain","understand",1))
+print(txt.replace("explain","understand",1))
 
 # Usuń spacje i połącz wszystkie słowa myślnikiem
-print(tekst.replace(" ","-"))
+print(txt.replace(" ","-"))
 
 # Podziel tekst na osobne zdania za pomocą kropki
-print(tekst.split("."))
+print(txt.split("."))
