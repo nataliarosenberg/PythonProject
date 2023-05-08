@@ -12,6 +12,5 @@ if len(list_number) == 10:
     print(new_list)
 else:
     if len(list_number)>10:
-        print("You entered more numbers")
-    else:
-        print("You have entered to few numbers")
+        print("You have entered too many numbers")
+ 
