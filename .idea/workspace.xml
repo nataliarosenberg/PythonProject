@@ -4,22 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9736ad00-814d-4dfc-a1ea-5b5116b2adb1" name="Changes" comment=".">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_27.04.2023/Krotki Zad.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/04_27.04.2023/Krotki Zad.1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_27.04.2023/Krotki- Zad.3.py" beforeDir="false" afterPath="$PROJECT_DIR$/04_27.04.2023/Krotki- Zad.3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_27.04.2023/List - Zad. 4.py" beforeDir="false" afterPath="$PROJECT_DIR$/04_27.04.2023/List - Zad. 4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_27.04.2023/List - Zad.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/04_27.04.2023/List - Zad.1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_27.04.2023/List - Zad.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/04_27.04.2023/List - Zad.2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_27.04.2023/List - Zad.3.py" beforeDir="false" afterPath="$PROJECT_DIR$/04_27.04.2023/List - Zad.3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_27.04.2023/List- Zad.5.py" beforeDir="false" afterPath="$PROJECT_DIR$/04_27.04.2023/List- Zad.5.py" afterDir="false" />
-    </list>
+    <list default="true" id="9736ad00-814d-4dfc-a1ea-5b5116b2adb1" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="repository" />
+    </option>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -252,7 +246,21 @@
       <option name="project" value="LOCAL" />
       <updated>1683565463285</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="zmiana nazwy folderu">
+      <created>1683567906384</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1683567906384</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Revert &quot;List - Zad.2.py&quot;&#10;&#10;This reverts commit 966854d5">
+      <created>1683568229697</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1683568229697</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -270,6 +278,8 @@
     <MESSAGE value="zadanie domowe" />
     <MESSAGE value="koszt podrozy" />
     <MESSAGE value="." />
-    <option name="LAST_COMMIT_MESSAGE" value="." />
+    <MESSAGE value="zmiana nazwy folderu" />
+    <MESSAGE value="Revert &quot;List - Zad.2.py&quot;&#10;&#10;This reverts commit 966854d5" />
+    <option name="LAST_COMMIT_MESSAGE" value="Revert &quot;List - Zad.2.py&quot;&#10;&#10;This reverts commit 966854d5" />
   </component>
 </project>
