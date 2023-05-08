@@ -2,7 +2,7 @@
 Pobierz od użytkownika 10 liczb, wyświetl tylko te, które są nieparzyste.
 """
 number= input("Enter 10 numbers, separate space -->  ")
-list_number= number.split()
+list_number=number.split()
 new_list=[]
 if len(list_number) == 10:
     for num in list_number:
@@ -13,3 +13,4 @@ if len(list_number) == 10:
 else:
     if len(list_number)>10:
         print("You have entered too many numbers")
+ 
