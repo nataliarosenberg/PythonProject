@@ -23,4 +23,5 @@ for i in range(0, 6):
 if computer == user_number:
     print("You win")
 else:
-    print("Correct number: ", computer, "Your number: ", user_number, "You lose")
+    print("Correct number: ", computer, "Your number: ", user_number,
+          "You lose")
